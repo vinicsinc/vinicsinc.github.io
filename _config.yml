@@ -1,14 +1,12 @@
 # Site settings
-title: We make IT work. Talk with real people
-email: your-email@domain.com
+title: Vinics
+email: i@vinics.com.au
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We make IT work for you. We pride ourselves in partnering you to your potential.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://vinics.com.au" # the base hostname & protocol for your site
 twitter_username: vyasp
 github_username:  vinicsinc
-
+published: false
 # Build settings
 markdown: kramdown
